@@ -9,7 +9,7 @@ Cinema Paradiso, with a frontend built in React & Redux and a backend built in D
 
 **This App uses a Heroku free plan, so I am afraid that it takes time to load the pages.**
 
-Check out [FRONTEND LIVE DEMO](https://vocal-pegasus-940944.netlify.app/) here!!
+Check out [FRONTEND LIVE DEMO](https://cinema-paradise-frontend.jyekesho.repl.co/) here!!
 
 
 
