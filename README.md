@@ -24,7 +24,7 @@ Check out [FRONTEND LIVE DEMO](https://cinema-paradise-frontend.jyekesho.repl.co
 1. Git Clone
 
 ```
-git clone (https://github.com/jyekesho/cinema-paradise.git)
+git clone https://github.com/jyekesho/cinema-paradise.git
 ```
 
 2. Backend setting
